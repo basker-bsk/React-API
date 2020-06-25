@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-API/static/css/main.c6380ec3.chunk.css",
-    "main.js": "/React-API/static/js/main.3a84cb7c.chunk.js",
-    "main.js.map": "/React-API/static/js/main.3a84cb7c.chunk.js.map",
-    "runtime-main.js": "/React-API/static/js/runtime-main.c4bf1478.js",
-    "runtime-main.js.map": "/React-API/static/js/runtime-main.c4bf1478.js.map",
-    "static/js/2.3184f4e0.chunk.js": "/React-API/static/js/2.3184f4e0.chunk.js",
-    "static/js/2.3184f4e0.chunk.js.map": "/React-API/static/js/2.3184f4e0.chunk.js.map",
-    "index.html": "/React-API/index.html",
-    "precache-manifest.90d5212212a9f390a77234dc93b6eb4d.js": "/React-API/precache-manifest.90d5212212a9f390a77234dc93b6eb4d.js",
-    "service-worker.js": "/React-API/service-worker.js",
-    "static/css/main.c6380ec3.chunk.css.map": "/React-API/static/css/main.c6380ec3.chunk.css.map",
-    "static/js/2.3184f4e0.chunk.js.LICENSE.txt": "/React-API/static/js/2.3184f4e0.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/React-API/static/media/logo.79136081.png"
+    "main.css": "/React-Api/static/css/main.c6380ec3.chunk.css",
+    "main.js": "/React-Api/static/js/main.3a84cb7c.chunk.js",
+    "main.js.map": "/React-Api/static/js/main.3a84cb7c.chunk.js.map",
+    "runtime-main.js": "/React-Api/static/js/runtime-main.c4bf1478.js",
+    "runtime-main.js.map": "/React-Api/static/js/runtime-main.c4bf1478.js.map",
+    "static/js/2.3184f4e0.chunk.js": "/React-Api/static/js/2.3184f4e0.chunk.js",
+    "static/js/2.3184f4e0.chunk.js.map": "/React-Api/static/js/2.3184f4e0.chunk.js.map",
+    "index.html": "/React-Api/index.html",
+    "precache-manifest.90d5212212a9f390a77234dc93b6eb4d.js": "/React-Api/precache-manifest.90d5212212a9f390a77234dc93b6eb4d.js",
+    "service-worker.js": "/React-Api/service-worker.js",
+    "static/css/main.c6380ec3.chunk.css.map": "/React-Api/static/css/main.c6380ec3.chunk.css.map",
+    "static/js/2.3184f4e0.chunk.js.LICENSE.txt": "/React-Api/static/js/2.3184f4e0.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/React-Api/static/media/logo.79136081.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4bf1478.js",
